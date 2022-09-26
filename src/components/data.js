@@ -1,7 +1,7 @@
-import mountain from '../public/images/mountain-bike.png'
 
 
-export default [
+
+export default[
     {
         id: 1,
         title: "Life Lessons with Katie Zaferes",
